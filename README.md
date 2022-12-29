@@ -13,7 +13,8 @@ Generates a sound given: volume, frequency, duration!
 2. Enter: **frequncy**
 3. Enter: **duration**
 4. Enter: **audio wave** (recommended: 1)
+5. **Done!**
+
+## AudioWave
 
 ![alt text](https://i.imgur.com/ydz5Ucd.png)
-
-5. **Done!**
